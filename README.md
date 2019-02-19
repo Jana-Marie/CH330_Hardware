@@ -6,7 +6,11 @@ Since the IC is very small (other USB UART converters are packed in at least a Q
 
 The CH330N enumerates as CH340 or CH341 and its transfer speed goes up to ~2Mb/s.
 
-[More Info](https://twitter.com/JanHenrikH/status/1057014341155872769)
+#### [More Info (Twitter Link)](https://twitter.com/JanHenrikH/status/1057014341155872769)
 
-![Front](https://raw.githubusercontent.com/Jan--Henrik/CH330_Hardware/master/images/front.png)
-![Back](https://raw.githubusercontent.com/Jan--Henrik/CH330_Hardware/master/images/back.png)
+### Images
+
+![H1](https://pbs.twimg.com/media/DsmIqXtXoAIwU_J.jpgg)
+![H2](https://pbs.twimg.com/media/DsmIrubWwAIRDZC.jpg)
+![Front](/images/front.png)
+![Back](/images/back.png)
