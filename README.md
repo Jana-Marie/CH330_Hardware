@@ -10,7 +10,7 @@ The CH330N enumerates as CH340 or CH341 and its transfer speed goes up to ~2Mb/s
 
 ### Images
 
-![H1](https://pbs.twimg.com/media/DsmIqXtXoAIwU_J.jpgg)
+![H1](https://pbs.twimg.com/media/DsmIqXtXoAIwU_J.jpg)
 ![H2](https://pbs.twimg.com/media/DsmIrubWwAIRDZC.jpg)
 ![Front](/images/front.png)
 ![Back](/images/back.png)
