@@ -1,4 +1,4 @@
-# CH330_Hardware
+# CH330_Hardware USB-UART Converter
 
 I created this board because I wanted to play with the CH330N because it was supposed to be a crystal-less, <$0.35 USB UART converter in a SOIC-8 package. Since these chips were available from LCSC, I created a quick design and ordered both together.
 
