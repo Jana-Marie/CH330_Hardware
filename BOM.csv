@@ -1,0 +1,12 @@
+Reference, Value, Footprint, Datasheet, Mfr. Part
+"U1","CH330N","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://datasheet.lcsc.com/szlcsc/2008191734_WCH-Jiangsu-Qin-Heng-CH330N_C108996.pdf","CH330N"
+"C2","100n","Capacitor_SMD:C_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/YAGEO-CC0603KRX7R9BB104_C14663.pdf","CC0603KRX7R9BB104"
+"C1","100n","Capacitor_SMD:C_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/YAGEO-CC0603KRX7R9BB104_C14663.pdf","CC0603KRX7R9BB104"
+"D1","LED","LED_SMD:LED_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-R6C-AL1M2VY-3T_C72044.pdf","19-217/R6C-AL1M2VY/3T"
+"R1","220","Resistor_SMD:R_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2200T5E_C22962.pdf","0603WAF2200T5E"
+"R2","220","Resistor_SMD:R_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2200T5E_C22962.pdf","0603WAF2200T5E"
+"J2","Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+"P1","USB_C_Plug_USB2.0","Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11","https://datasheet.lcsc.com/szlcsc/2002271811_XKB-Connectivity-U262-161N-4BVC11_C319148.pdf","U262-161N-4BVC11"
+"D2","LED","LED_SMD:LED_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-R6C-AL1M2VY-3T_C72044.pdf","19-217/R6C-AL1M2VY/3T"
+"R3","5.1k","Resistor_SMD:R_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAJ0512T5E_C26000.pdf","0603WAJ0512T5E"
+"R4","5.1k","Resistor_SMD:R_0603_1608Metric","https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAJ0512T5E_C26000.pdf","0603WAJ0512T5E"
