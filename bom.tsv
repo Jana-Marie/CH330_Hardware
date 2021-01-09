@@ -1,7 +1,0 @@
-References	Quantity	Description	PartNumber
-C1,C2	2	0.1µF 0603 50V
-D1,D2	2	LED 0603
-J1	1	Micro USB
-J2	1	PinHeader
-R1,R2	2	220R 0603 0.25W
-U1	1	CH330 SOIC-8
